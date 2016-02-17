@@ -24,7 +24,7 @@ Add the Javascript to the bottom of your body tag.
 </script>
 ```
 
-For a working example see: index.html
+For a working example see: [index.html](http://j-mcnally.github.io/mixup/)
 
 ## Mixpanel
 
