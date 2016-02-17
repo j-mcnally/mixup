@@ -28,6 +28,6 @@ For a working example see: index.html
 
 ## Mixpanel
 
-Click to the content in the blocks will be captured in Mixpanel.
+Clicks to the content in the blocks will be captured in Mixpanel.
 
 <img width="932" alt="example" src="https://cloud.githubusercontent.com/assets/892382/13126010/73e34bc6-d58e-11e5-9d2d-8515ec4ba6ab.png">
